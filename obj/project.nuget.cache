@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZebC+Lwp31x5E3YLP788g9z65JFSfWH2h1Jyg8bA9PpUf4FMqXpFH7iuc9aXzxQyuBDNfQZ21VGs0VCm9/TqFw==",
+  "success": true,
+  "projectFilePath": "D:\\DOUCUMENTS\\Documents\\better tools for AOH3\\image siticher\\v2\\Image Put to\\Image Put to.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aunit\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\aunit\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
